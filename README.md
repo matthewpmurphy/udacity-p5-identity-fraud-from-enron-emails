@@ -1,4 +1,4 @@
-ud120-projects
+Identity Fraud from enron emails
 ==============
 
-Starter project code for students taking Udacity ud120
+Submission file [/final_project/Submission.pdf]
